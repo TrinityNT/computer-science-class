@@ -5,3 +5,4 @@ the job I choose is a react native developer. I find it interesting because they
 I went onto code hs on my phone but got very little done and I went on my chrome book. 
 
 #8/22/23
+I made more progress with my code. I'm still on my phone but I'm managing the code. 
