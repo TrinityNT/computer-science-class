@@ -6,3 +6,9 @@ I went onto code hs on my phone but got very little done and I went on my chrome
 
 #8/22/23
 I made more progress with my code. I'm still on my phone but I'm managing the code. 
+
+#8/23/23
+today we messed around with a sphero robots and just messed around with them
+
+#8/24/23
+today I learned to use the drawing part of the sphero and did some block programming with it. 
