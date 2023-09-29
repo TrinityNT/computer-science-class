@@ -12,3 +12,18 @@ today we messed around with a sphero robots and just messed around with them
 
 #8/24/23
 today I learned to use the drawing part of the sphero and did some block programming with it. 
+
+#9/25/23
+we had a sub this day
+
+#9/26/23
+We started using the cars and coding with them
+
+9/27/23
+had troubles in the beginning but managed to make it half way with our car
+
+9/28/23
+our car died 
+
+9/29/23
+we used code hs today
