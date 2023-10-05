@@ -27,3 +27,14 @@ our car died
 
 9/29/23
 we used code hs today
+
+10/2/23
+worked with the cars
+
+10/3/3
+worked with cars
+
+10/4/3
+sat with the car because we forgot about it :')
+
+10/5/23
