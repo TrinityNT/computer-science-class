@@ -38,3 +38,4 @@ worked with cars
 sat with the car because we forgot about it :')
 
 10/5/23
+worked with the car agin today we are currently on 2.2 i believe. I know its about gyroscopes.
