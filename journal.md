@@ -1,5 +1,17 @@
 #aaa
 ```python
+from zumi.zumi import Zumi
+import time
+zumi = Zumi() 
+
+zumi.forward() 
+time.sleep(2) 
+zumi.forward(duration=1.7)
+zumi.turn_right()
+zumi.forward(duration=1.5)
+zumi.turn_right()
+zumi.forward(duration=2)
+zumi.left_u_turn() 
 
 ```
 
